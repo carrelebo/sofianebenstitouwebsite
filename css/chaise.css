@@ -1,0 +1,51 @@
+/* 
+font : 
+Open Sans font : font-family: 'Open Sans', sans-serif;
+*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+
+/* Base */
+body{
+    background-color: #EFFF3B;
+}
+
+center{
+    background-color: #191916;
+    border-radius: 30px;
+
+    font-family: 'Open Sans', sans-serif;
+    color : white;
+
+    margin-top: 1%;
+
+    padding-top: 2.5%;
+    padding-bottom: 14.5%;
+
+    font-size: 25px
+
+}
+
+/* les liens */
+a{
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+li{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+/*Les boutons*/
+a.vert{
+    background-color: #0DC20B;
+}
+a.bleu{
+    background-color: #1891E5;
+}
+a.rouge{
+    background-color: #E54018;
+}

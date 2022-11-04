@@ -1,0 +1,109 @@
+/* 
+font : 
+Open Sans font : font-family: 'Open Sans', sans-serif;
+*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+
+body{
+    background-color: #d1dc28;
+    font-family: 'Open Sans', sans-serif;
+}
+
+li{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+
+div.all{
+    background-color: #191916;
+    border-radius: 30px;
+
+    padding-top: 0.5%;
+    padding-bottom: 3%;
+
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+div.home a{
+    text-decoration: none;
+}
+
+div.sidebar a{
+    background: #aab416;
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 15%;
+    text-decoration: none;
+}
+
+/* couleur des matières */
+
+div.sidebar a.vert{
+    background-color: #0DC20B;
+}
+div.sidebar a.bleu{
+    background-color: #1891E5;
+}
+div.sidebar a.rouge{
+    background-color: #E54018;
+}
+
+div.sidebar a.noire{
+    background-color: #252320;
+}
+div.sidebar a.violet{
+    background-color: #7e16af;
+}
+div.sidebar a.rose{
+    background-color: #f52bcd;
+}
+
+div.sidebar a.orange{
+    background-color: #e19d1e;
+}
+
+div.sidebar a.jaune{
+    background-color: #c1b100;
+}
+
+/*-------------*/
+
+div.main div{
+    display: inline-block;
+    margin-left:1%;
+    padding-bottom: 7%;
+
+    vertical-align: top;
+
+}
+
+div.sidebar{
+    background-color: #9ca231;
+    
+    border-radius: 20px;
+
+    width: 20%;
+    
+    font-size: 20px;
+}
+
+div.article{
+    background-color: #aab416;
+    border-radius: 20px;
+
+    width: 76.5%;
+
+    font-size: 20px;
+}
+
+div.article p{
+    margin-left: 2%;
+}
+
