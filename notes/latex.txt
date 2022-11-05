@@ -1,0 +1,2 @@
+équation/formules : https://latexeditor.lagrida.com/
+convertir en html : mathJax

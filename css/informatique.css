@@ -31,6 +31,10 @@ a{
     color: white;
 }
 
+hr{
+    color: white;
+}
+
 div.home a{
     text-decoration: none;
 }
@@ -41,6 +45,7 @@ div.sidebar a{
     padding: 5px;
     margin-right: 15%;
     text-decoration: none;
+    font-size: 17.5px;
 }
 
 /* couleur des matières */
